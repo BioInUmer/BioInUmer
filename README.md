@@ -11,7 +11,7 @@
 ### `Some Tools`
 
 - [**LocusLift**](https://github.com/BioInUmer/locuslift.git) → Lift genomic loci with less friction.
-- [**PCAutliers**](bioinumer.github.io/PCAutliers/) → Structure, projection drift, and outliers in PCA space.
+- [**PCAutliers**](https://bioinumer.github.io/PCAutliers/) → Structure, projection drift, and outliers in PCA space.
 
 ### `WIP`
 
