@@ -1,8 +1,6 @@
 <div align="center">
 
-<sub>Junior Bioinformatician</sub>
-
-# UMER
+# Junior Bioinformatician
 
 <sub>I love science and building stuff.<br>This is where I turn biological questions into tools.</sub>
 
