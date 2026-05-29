@@ -1,6 +1,6 @@
 <div align="center">
 
-# Junior Bioinformatician
+# Handsome Bioinformatician
 
 *I love science and building stuff. This is where I turn biological questions into tools.*
 
