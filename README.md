@@ -1,9 +1,13 @@
 <div align="center">
+
 # Umer
+
 <sub>Junior Bioinformatician</sub>
 
 <sub>I love science and building stuff.<br>This is where I turn biological questions into tools.</sub>
+
 <div>
+
 ---
 | | |
 |:--|:--|
@@ -18,5 +22,7 @@
 
 ---
 <div align="center">
+
 [LinkedIn ↗](https://www.linkedin.com/in/muhammad-umer-hk/) · Website soon
+
 </div>
