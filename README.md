@@ -6,13 +6,9 @@
 
 <a href="https://www.linkedin.com/in/muhammad-umer-hk/">
   <img width="24" height="24" alt="LinkedIn" src="https://github.com/user-attachments/assets/ab3d215d-b67b-4f04-aecd-aef6196b60ba" />
-</a>
-&nbsp;
-<a href="mailto:muh.umer.h@gmail.com">
+</a> &nbsp; <a href="mailto:muh.umer.h@gmail.com">
   <img width="24" height="24" alt="Email" src="https://github.com/user-attachments/assets/10a00c44-b44f-427d-8f4a-403224274049" />
-</a>
-&nbsp;
-Website Soon
+</a> &nbsp; Website Soon
 
 </div>
 
