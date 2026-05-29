@@ -15,5 +15,5 @@
 
 ### `WIP`
 
-- Imputation pipeline: \t from raw genotype to TOPMed imputation
-- Master's Thesis:\t GWAS/TWAS on imaging phenotypes
+- Imputation pipeline: from raw genotype to TOPMed imputation
+- Master's Thesis: GWAS/TWAS on imaging phenotypes
