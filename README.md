@@ -10,10 +10,10 @@
 
 ### `Some Tools`
 
-- [**LocusLift**](https://github.com/BioInUmer/locuslift.git):   Lift genomic loci with less friction.
-- [**PCAutliers**](https://github.com/BioInUmer/PCAutliers.git): Structure, projection drift, and outliers in PCA space.
+- [**LocusLift**](https://github.com/BioInUmer/locuslift.git) → Lift genomic loci with less friction.
+- [**PCAutliers**](https://github.com/BioInUmer/PCAutliers.git) → Structure, projection drift, and outliers in PCA space.
 
 ### `WIP`
 
-- Imputation pipeline: from raw genotype to TOPMed imputation
-- Master's Thesis: GWAS/TWAS on imaging phenotypes
+- **Imputation pipeline** → from raw genotype to TOPMed imputation
+- **Master's Thesis** → GWAS/TWAS on imaging phenotypes
