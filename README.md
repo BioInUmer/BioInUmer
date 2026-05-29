@@ -1,31 +1,28 @@
 <div align="center">
+<sub>Junior Bioinformatician</sub>
 
 # Umer
 
-I love science and building stuff.
+<sub>I love science and building stuff.<br>This is where I turn biological questions into tools.</sub>
 
-This is where I turn biological questions into tools.
-
-<br>
+---
 
 ### Work
 
-[LocusLift](https://github.com/BioInUmer/locuslift.git)  
-Lift genomic loci with less friction.
+[**LocusLift**](https://github.com/BioInUmer/locuslift.git) — Lift genomic loci with less friction.
 
-[PCAutliers](https://github.com/BioInUmer/PCAutliers.git)  
-Finding structure, projection drift, and outliers in PCA space.
+[**PCAutliers**](https://github.com/BioInUmer/PCAutliers.git) — Structure, projection drift, and outliers in PCA space.
 
-<br>
+---
 
 ### Next
 
-Imputation pipeline: raw files to QC to TOPMed imputation  
-AAA GWAS pipeline: aortic diameter and calcification phenotypes  
-TWAS pipeline: in progress
+`WIP` · Imputation pipeline — raw files to TOPMed imputation  
+`WIP` · AAA GWAS/TWAS — aortic diameter and calcification phenotypes  
+`Soon` · Bioinformatics Master's Thesis
 
-<br>
+---
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-umer-hk/) | Website soon
+[LinkedIn ↗](https://www.linkedin.com/in/muhammad-umer-hk/) · Website soon
 
 </div>
