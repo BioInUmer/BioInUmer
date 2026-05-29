@@ -2,7 +2,7 @@
 
 # Junior Bioinformatician
 
-<sub>I love science and building stuff. This is where I turn biological questions into tools.</sub>
+I love science and building stuff. This is where I turn biological questions into tools.
 
 [LinkedIn ↗](https://www.linkedin.com/in/muhammad-umer-hk/) · Website soon
 
