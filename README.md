@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BioInUmer/BioInUmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Umer
 
-Here are some ideas to get you started:
+I love science and building stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is where I turn biological questions into tools.
+
+<br>
+
+### Work
+
+[LocusLift](https://github.com/BioInUmer/locuslift.git)  
+Lift genomic loci with less friction.
+
+[PCAutliers](https://github.com/BioInUmer/PCAutliers.git)  
+Finding structure, projection drift, and outliers in PCA space.
+
+<br>
+
+### Next
+
+Imputation pipeline: raw files to QC to TOPMed imputation  
+AAA GWAS pipeline: aortic diameter and calcification phenotypes  
+TWAS pipeline: in progress
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-umer-hk/) | Website soon
+
+</div>
