@@ -2,7 +2,8 @@
 
 # A Cool Bioinformatician
 
-*I love science and building stuff* 
+*I love science and building stuff.* 
+
 *This is where I turn biological questions into solutions.*
 
 [LinkedIn ↗](https://www.linkedin.com/in/muhammad-umer-hk/) • [Mail ↗](mailto:muh.umer.h@gmail.com) • Website soon
