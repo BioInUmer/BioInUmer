@@ -1,8 +1,9 @@
 <div align="center">
 
-# Handsome Bioinformatician
+# A Cool Bioinformatician
 
-*I love science and building stuff. This is where I turn biological questions into solutions.*
+*I love science and building stuff* 
+*This is where I turn biological questions into solutions.*
 
 [LinkedIn ↗](https://www.linkedin.com/in/muhammad-umer-hk/) • [Mail ↗](mailto:muh.umer.h@gmail.com) • Website soon
 
