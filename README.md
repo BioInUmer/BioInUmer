@@ -14,6 +14,7 @@ Imputation pipeline: from raw files to QC to TOPMed imputation
 
 Master's Thesis: imaging phenotypes
 
+---
 [LinkedIn ↗](https://www.linkedin.com/in/muhammad-umer-hk/) · Website soon
 
 </div>
