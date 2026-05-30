@@ -1,6 +1,6 @@
 <div align="center">
 
-# A Cool Bioinformatician
+# A Cool Bioinformatician here!
 
 *I love science and building stuff.*
 
