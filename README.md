@@ -10,8 +10,8 @@
 
 ### `Some Tools`
 
-- [**LocusLift**](https://github.com/BioInUmer/locuslift.git) → Lift genomic loci with less friction.
-- [**PCAutliers**](https://bioinumer.github.io/PCAutliers/) → Structure, project, and kick the liers out in PCA.
+- [**LocusLift**](https://github.com/BioInUmer/locuslift.git) → Lift genomic data with less friction.
+- [**PCAutliers**](https://bioinumer.github.io/PCAutliers/) → Structure, project, and kick the liers out of the PCA.
 
 ### `WIP`
 
