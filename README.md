@@ -12,8 +12,8 @@
 
 - [**LocusLift**](https://github.com/BioInUmer/locuslift.git) → Lift genomic data with less friction.
 - [**PCAutliers**](https://bioinumer.github.io/PCAutliers/) → Structure, project, and kick the liers out of the PCA.
+- [**GG-Impute**](https://bioinumer.github.io/GG-Impute/) → Impute raw Genotypes for Gwas.
 
 ### `WIP`
 
-- **Imputation pipeline** → from raw genotype to TOPMed imputation
 - **Master's Thesis** → GWAS/TWAS on imaging phenotypes
